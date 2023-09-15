@@ -7,7 +7,7 @@ cat << EOF
 From: "SAUVEGARDE @Dolidock" <$BACKUP_FROM>
 To: "Backup@Dolidock" <$BACKUP_TO>
 MIME-Version: 1.0
-Subject: Sauvegarde HCFMailer+ du $NOW
+Subject: Sauvegarde Dolidock du $NOW
 Content-Type: multipart/mixed; boundary="-"
 
 This is a MIME encoded message.  Decode it with "munpack"
